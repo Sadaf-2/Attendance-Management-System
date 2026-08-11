@@ -1,21 +1,9 @@
-# Node
 node_modules/
 dist/
-build/
-
-# Environment
 .env
 .env.local
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Flask virtual environment
 backend/flask/venv/
-
-# Logs
-build-log.txt
-build-error.txt
+backend/flask/__pycache__/
+**/__pycache__/
+*.pyc
