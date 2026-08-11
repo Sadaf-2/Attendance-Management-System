@@ -1,4 +1,4 @@
-Flask
-flask-sqlalchemy
-flask-bcrypt
-flask-cors
+Flask==3.1.1
+Flask-SQLAlchemy==3.1.1
+Flask-Bcrypt==1.0.1
+Flask-Cors==6.0.1
